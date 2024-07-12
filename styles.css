@@ -18,7 +18,7 @@ p {
 }
 
 h1 {
-  font-size: 2.9rem;
+  font-size: 2.5rem;
 }
 
 h2 {
@@ -51,6 +51,7 @@ body {
     padding: 1rem 2rem;
     text-decoration: none;
     border-radius: 50px;
+    font-weight: bold;
     text-transform: uppercase;
     transition: all 0.3s ease;
     position: relative;
@@ -263,6 +264,7 @@ nav {
 }
 
 .hero h1 {
+    font-size: 3.6rem;
     margin-bottom: 1rem;
     line-height: 1.2;
     position: relative;
@@ -436,6 +438,7 @@ nav {
 
 .service-card:hover p {
     color: #ffffff;
+    transform: scale(1.1);
 }
 
 /* TESTIMONIALS SECTION */
