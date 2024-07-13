@@ -2,14 +2,24 @@
 
 Explore ShoeShop's E-commerce Web Template, designed for stylish and comfortable footwear shopping experiences.
 
+  ### Demo Files
+- **Demo Video**: 
+  <video controls>
+    <source src="demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+- **Demo Images**:
+  ![Demo Image 1](demo2.jpg)
+  ![Demo Image 2](demo3.jpg)
+
 ## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- Introduction
+- Features
+- Technologies Used
+- Installation
+- Usage
+- Contributing
+- License
 
 ## Introduction
 ShoeShop is an E-commerce web template crafted to showcase a range of footwear products with a focus on modern design and user experience. This template is ideal for businesses looking to create an online presence in the footwear industry.
@@ -46,4 +56,6 @@ Contributions are welcome! If you'd like to improve ShoeShop:
 5. Create a new Pull Request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+I encourage you to contribute to the project to make it even better! Whether it’s improving the design, adding new features, or fixing bugs, your help is appreciated. Let's build something amazing together.
