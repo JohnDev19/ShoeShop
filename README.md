@@ -2,13 +2,6 @@
 
 Explore ShoeShop's E-commerce Web Template, designed for stylish and comfortable footwear shopping experiences.
 
-  ### Demo Files
-- **Demo Video**: 
-  <video controls>
-    <source src="demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-- **Demo Images**:
   ![Demo Image 1](demo2.jpg)
   ![Demo Image 2](demo3.jpg)
 
